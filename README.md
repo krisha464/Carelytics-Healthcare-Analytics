@@ -48,9 +48,7 @@ The goal of this project is to enable **data-driven decisions** that improve hos
 
 ## 📷 Dashboard Preview
 
-| Hospital Summary | Patients Summary |
-|------------------|------------------|
-| ![Hospital Summary](images/carelytics_hospital_summary.png) | ![Patients Summary](images/carelytics_patients_summary.png) |
+| Hospital Summary | Patients Summary | Patients Details |
 
 ---
 
