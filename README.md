@@ -74,7 +74,8 @@ The goal of this project is to enable **data-driven decisions** that improve hos
 - **Power BI Desktop** – dashboard creation  
 - **DAX** – measures and KPIs  
 - **Power Query** – ETL (data cleaning and transformation)  
-- **Excel/CSV** – data source  
+- **Excel/CSV** – data source
+- - **GitHub** (Version control & sharing)
 
 ---
 
