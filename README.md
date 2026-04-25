@@ -2,7 +2,8 @@ This repo contains my Power BI dashboards showcasing data analysis on healthcare
 # 🏥 Carelytics – Healthcare Analytics Dashboard
 
 **Carelytics** is a **Power BI dashboard** designed to give healthcare providers deep insights into **hospital operations, patient care, and financial performance**.  
-The goal of this project is to enable **data-driven decisions** that improve hospital efficiency, reduce patient wait times, and optimize resource utilization.  
+Problem statement : Hospital administrators lack a unified, easy-to-use dashboard to monitor operational efficiency and financial performance in near real-time. This makes it hard to spot capacity issues (bed occupancy, bottlenecks), control costs, and improve patient throughput.
+Goal: Build an interactive Power BI dashboard that consolidates patient, bed, and revenue data to provide KPIs, trend analysis, and drill-downs for operational decision-making (e.g., reduce ALOS, improve bed utilization, reduce time-to-admit).  
 
 ---
 
