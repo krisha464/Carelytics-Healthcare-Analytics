@@ -3,7 +3,6 @@
 > **Project:** Carelytics – Power BI Healthcare Analytics Dashboard  
 > **Author:** Kanika Dogra  
 > **Tool:** Power BI Desktop (Power Query + DAX)  
-
 ---
 
 ## 🗂️ Table Overview
