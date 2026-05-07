@@ -50,7 +50,6 @@ Goal: Build an interactive Power BI dashboard that consolidates patient, bed, an
 ## 📷 Dashboard Preview
 
 | Hospital Summary | Patients Summary | Patients Details |
-
 ---
 
 ## 🚀 Features
