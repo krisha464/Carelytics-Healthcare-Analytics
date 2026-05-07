@@ -368,3 +368,4 @@ DIVIDE(
 4. **Avoid `COUNTBLANK`** — use `NOT ISBLANK(...)` inside `CALCULATE` for cleaner semantics.
 5. **Prefix measure names** by folder implicitly — e.g., don't abbreviate to `Avg LOS`; write `Avg LOS (Days)` so units are self-documenting.
 6. **Mark the Date table** — all `DATESYTD`, `DATEADD`, `SAMEPERIODLASTYEAR` functions require a properly marked calendar table to work correctly.
+7. 
